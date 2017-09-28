@@ -1,5 +1,7 @@
 ## Create Network Policy
 
+https://kubernetes.io/docs/tasks/administer-cluster/declare-network-policy/
+https://ahmet.im/blog/kubernetes-network-policy/
 
 Network policy needs
 - podSelector (empty means all namespace)

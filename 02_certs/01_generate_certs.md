@@ -1,3 +1,6 @@
+https://kubernetes.io/docs/tasks/tls/managing-tls-in-a-cluster/
+
+
 ## Create output dir
 ```
 mkdir  -p ./gen

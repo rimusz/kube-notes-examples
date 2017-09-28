@@ -41,6 +41,8 @@ apiVersion: v1
 metadata:
   name: myservice
 spec:
+  selector:
+    app: myapp
   ports:
   - protocol: TCP
     port: 80
@@ -71,6 +73,8 @@ apiVersion: v1
 metadata:
   name: mydb
 spec:
+  selector:
+    app: myapp
   ports:
   - protocol: TCP
     port: 80
