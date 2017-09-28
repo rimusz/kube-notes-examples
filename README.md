@@ -6,6 +6,5 @@ Useful urls:
 
 * https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/
 * https://kubernetes.io/docs/concepts/
-* https://kubernetes.io/docs/user-guide/kubectl/v1.6/#logs
 * http://kubernetesbyexample.com
 * https://github.com/kelseyhightower/kubernetes-the-hard-way
