@@ -6,3 +6,4 @@ Useful urls:
 
 * https://kubernetes.io/docs/concepts/
 * http://kubernetesbyexample.com
+* https://github.com/kelseyhightower/kubernetes-the-hard-way
