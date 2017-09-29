@@ -9,4 +9,5 @@ Useful urls:
 * http://kubernetesbyexample.com
 * https://github.com/kelseyhightower/kubernetes-the-hard-way
 * https://gist.github.com/rimusz/395a4cf95fa715db939ca605e6bc45a9
+* https://github.com/janwillies/kubernetes-rbac-howto
 
