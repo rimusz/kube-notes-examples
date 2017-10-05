@@ -30,5 +30,4 @@ Check DNS:
 kubectl exec busybox -- nslookup kubernetes
 kubectl exec busybox -- nslookup service_name
 kubectl exec busybox -- nslookup 10-2-1-27.default.pod.cluster.local
-kubectl exec busybox -- nslookup pod_name.etcd-cluster.default.svc
 ```
