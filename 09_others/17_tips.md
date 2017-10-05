@@ -17,3 +17,6 @@ $ kubectl describe pods <PODID>
 $ kubectl create service clusterip my-svc -o yaml --dry-run > /tmp/srv.yaml
 $ kubectl create --edit -f /tmp/srv.yaml
 ```
+
+if [ -z path]; then blah;fi
+command: [“sh”, “-c”, “one line script”]
