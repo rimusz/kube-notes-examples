@@ -19,4 +19,6 @@ $ kubectl create --edit -f /tmp/srv.yaml
 ```
 
 if [ -z path]; then blah;fi
+
 command: [“sh”, “-c”, “one line script”]
+
