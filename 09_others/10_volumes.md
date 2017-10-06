@@ -68,7 +68,7 @@ spec:
 EOF
 ```
 
-Use PVC in pod:
+Use PVC in a pod:
 ```
 cat <<EOF | kubectl create -f -
 kind: Pod
