@@ -22,3 +22,5 @@ if [ -z path]; then blah;fi
 
 command: [“sh”, “-c”, “one line script”]
 
+networking issue (enable and start kube-proxy)
+problems with worker (restart kubelet)
